@@ -15,7 +15,7 @@ $(document).ready(function() {
     $(".list_info_2").text(list_2Input);
     $(".how_many_2").text(how_many_2Input);
 
-    $("form#")
-    $("#shopping_list").show();
+
+    $("#copy").show();
   });
 });
